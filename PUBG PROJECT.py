@@ -65,6 +65,7 @@ np.percentile(data.kills,99)
 
 b=data.kills.max()
 print("most kills ever recorded are ",b)
+print("helooooo oooo")
 
 
 # # 7. Print all the columns of the dataframe.
